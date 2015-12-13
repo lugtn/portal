@@ -1,0 +1,8 @@
+uuid: 67d45e66-ffe2-496b-9b07-7dce41bc7835
+langcode: en
+status: true
+dependencies: {  }
+id: html_year
+label: 'HTML Year'
+locked: true
+pattern: 'Y'

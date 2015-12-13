@@ -1,0 +1,10 @@
+uuid: ef0d1abb-80ca-49a6-bf07-7f2b3da5cf6a
+langcode: en
+status: true
+dependencies: {  }
+id: feedback
+label: 'Website feedback'
+recipients:
+  - contact@gnulug.tn
+reply: ''
+weight: 0
