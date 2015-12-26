@@ -8,7 +8,7 @@ $api = '2.0.0';
 
 $data = array(
   'name' => 'node_admin_theme',
-  'content' => '1',
+  'content' => 1,
 );
 
 $dependencies = array();

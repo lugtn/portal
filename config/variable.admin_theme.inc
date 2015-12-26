@@ -8,7 +8,7 @@ $api = '2.0.0';
 
 $data = array(
   'name' => 'admin_theme',
-  'content' => 'seven',
+  'content' => 'adminimal',
 );
 
 $dependencies = array();
